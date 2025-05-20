@@ -11,4 +11,6 @@ git branch                           ---> used to check list of branches availab
 git branch branch_name               ---> used to create branch without switching
 git checkout -b branch_name          ---> create and switch to new branch
 git checkout branch_name             ---> switch to another branch
+git pull                             ---> Used to add changes from remote repo to local repo
+git diff                             ---> used to see the changes
 
