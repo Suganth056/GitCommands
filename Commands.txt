@@ -20,3 +20,5 @@ git config --global user.email=value ---> used to add our remote server emai
 git remote -v                        ---> shows the remote server link
 git remote set-url origin <new-URL>  ---> used to convert our remote origin into another remote
 git remote remove origin             ---> remove the remote server
+
+git clone                            ---> used to clone the remote repo into our local repo
