@@ -14,6 +14,6 @@ git checkout branch_name             ---> switch to another branch
 git pull                             ---> Used to add changes from remote repo to local repo
 git diff                             ---> used to see the changes
 
-git config --global user.name = value
-git config --global user.email = value
+git config --global user.name =value ---> used to add our remote server name
+git config --global user.email=value ---> used to add our remote server email
 
