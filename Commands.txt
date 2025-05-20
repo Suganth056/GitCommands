@@ -1,3 +1,9 @@
-git init  --> Used to initialize empty git repository
+git init                              ---> Used to initialize empty git repository
 git add filename or  git add .        ---> Used to move our files into Staging area
-git commit -m ""  ---->  used to push into Staging Area
+git commit -m ""                      ---> used to push into Staging Area
+git branch -M main                    ---> Used to Rename the current branch to main  -M means (move/rename)
+git remote add origin https://github.com/Suganth056/GitCommands.git  ---> used to add connection to remote server using 
+git push -u origin main               --->  Used to push the files from staging area into Remote repository
+
+git status                           ---> used to check status of our file whether added in staging area or modified
+
