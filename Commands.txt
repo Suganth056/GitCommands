@@ -1,1 +1,3 @@
 git init  --> Used to initialize empty git repository
+git add filename or  git add .        ---> Used to move our files into Staging area
+git commit -m ""  ---->  used to push into Staging Area
